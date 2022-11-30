@@ -88,8 +88,8 @@ static const uint8_t SCK = PIN_SPI_SCK;
  */
 #define WIRE_INTERFACES_COUNT 1
 
-#define PIN_WIRE_SDA   (0 + 21)          // SDA
-#define PIN_WIRE_SCL   (0 + 22)          // SCL
+#define PIN_WIRE_SDA   (0 + 26)          // SDA
+#define PIN_WIRE_SCL   (0 + 27)          // SCL
 
 // E-Byte E28 2.4 Ghz LoRa module
 #define USE_SX1280
