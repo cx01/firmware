@@ -94,7 +94,7 @@ static const uint8_t SCK = PIN_SPI_SCK;
 // E-Byte E28 2.4 Ghz LoRa module
 #define USE_SX1280
 #define LORA_RESET   (0 + 5)
-#define SX128X_CS    (0 + 23
+#define SX128X_CS    (0 + 23)
 #define SX128X_DIO1  (0 + 4)
 #define SX128X_BUSY  (0 + 7) 
 #define SX128X_TXEN  (32 + 9) 
