@@ -1,7 +1,7 @@
 #ifndef _VARIANT_MAKERPYTHON_NRF82540_OLED_
 #define _VARIANT_MAKERPYTHON_NRF82540_OLED_
 
-#define PCA10059
+#define MAKERPYTHON
 
 /** Master clock frequency */
 #define VARIANT_MCK (64000000ul)
